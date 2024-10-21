@@ -19,7 +19,7 @@ All the labs are organized in the **`labs`** folder, with each folder containing
    - **Description**: This lab involved configuring a resource lock to prevent accidental deletion or modification of critical resources.
    - **Key Concepts**: Resource locks (Read-only, Delete protection), Azure Management.
 
-2. **[Azure Load Balancer Setup](labs/azure-load-balancer/README.md)**
+2. **[Azure Load Balancer Setup](labs/Azure-load-balancer/README.md)**
    - **Description**: In this lab, I configured a standard Azure Load Balancer, created backend pools, health probes, and set up a load balancing rule.
    - **Key Concepts**: Load balancing, backend pools, health probes.
    
