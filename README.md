@@ -23,7 +23,6 @@ All the labs are organized in the **`labs`** folder, with each folder containing
    - **Description**: In this lab, I configured a standard Azure Load Balancer, created backend pools, health probes, and set up a load balancing rule.
    - **Key Concepts**: Load balancing, backend pools, health probes.
    
-
 ## Azure Labs and Concepts Covered
 This repository will cover various labs related to the core concepts of Microsoft Azure Fundamentals, including:
 - Azure Compute (VMs, Load Balancers)
