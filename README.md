@@ -23,7 +23,7 @@ All the labs are organized in the **`labs`** folder, with each folder containing
    - **Description**: In this lab, I configured a standard Azure Load Balancer, created backend pools, health probes, and set up a load balancing rule.
    - **Key Concepts**: Load balancing, backend pools, health probes.
 
-3. **[Azure Resource Manager Template Export and Virtual Machine Deployment](labs/arm-template-vm-deployment/README.md)**
+3. **[Azure Resource Manager Template Export and Virtual Machine Deployment](labs/manage-azure-resource-deployment-arm-template/README.md)**
    - **Description**: This lab involved exporting an Azure Resource Manager (ARM) template for a storage account and deploying a virtual machine (VM) using a custom ARM template.
    - **Key Steps**:
      - Exported ARM template for storage account `sa45125549`.
