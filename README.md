@@ -3,6 +3,11 @@
 ## Repository Overview
 Welcome to the **Azure-Fundamentals-Labs** repository! This repository is dedicated to documenting all the hands-on labs and challenges completed as part of my preparation for the **Microsoft Azure Fundamentals (AZ-900)** certification. Each lab demonstrates specific Azure concepts and implementations.
 
+
+### Sandbox Labs
+I utilize the Sandbox Labs provided with my course to conduct these hands-on experiments. Access to these labs allows me to follow along easily. The instructions for these labs are included, ensuring that while I document the essential concepts and my findings, specific information from the labs is not retained after completion. This ensures a streamlined learning experience.
+
+
 ## Structure
 All the labs are organized in the **`labs`** folder, with each folder containing:
 - A detailed explanation of the lab.
