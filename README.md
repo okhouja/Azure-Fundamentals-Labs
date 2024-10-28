@@ -3,10 +3,8 @@
 ## Repository Overview
 Welcome to the **Azure-Fundamentals-Labs** repository! This repository is dedicated to documenting all the hands-on labs and challenges completed as part of my preparation for the **Microsoft Azure Fundamentals (AZ-900)** certification. Each lab demonstrates specific Azure concepts and implementations.
 
-
 ### Sandbox Labs
 I utilize the Sandbox Labs provided with my course to conduct these hands-on experiments. Access to these labs allows me to follow along easily. The instructions for these labs are included, ensuring that while I document the essential concepts and my findings, specific information from the labs is not retained after completion. This ensures a streamlined learning experience.
-
 
 ## Structure
 All the labs are organized in the **`labs`** folder, with each folder containing:
@@ -36,11 +34,16 @@ All the labs are organized in the **`labs`** folder, with each folder containing
      - Configured necessary parameters including resource group, admin username, password, and VM size.
    - **Resources**:
      - [Simple Windows VM Template](https://github.com/LODSContent/ChallengeLabs_ArmResources/tree/master/ARMTemplates/101-vm-simple-windows)
+
 4. **[Manage Azure Resource Groups](labs/04.Manage-Azure-Resource-Groups/README.md)**
    - **Description**: This lab involved managing Azure resource groups by creating a storage account, exploring its properties, and reviewing available management options.
    - **Key Steps**:
      - Created an Azure storage account named `mystorage45168672` in the `RG2-lod45168672` resource group.
      - Reviewed storage account settings and available management options in the Azure portal.
+
+5. **[Run Commands by Using Azure Cloud Shell](labs/05.run-commands-azure-cloud-shell/README.md)**
+   - **Description**: This lab involved configuring Azure Cloud Shell and deploying virtual networks using both Azure PowerShell cmdlets and Azure CLI commands.
+   - **Key Concepts**: Azure Cloud Shell, PowerShell, Azure CLI, Virtual Networks.
 
 ## Azure Labs and Concepts Covered
 This repository will cover various labs related to the core concepts of Microsoft Azure Fundamentals, including:
